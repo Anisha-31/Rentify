@@ -1,0 +1,28 @@
+Rentify Application
+
+
+Frontend :- Reactjs, Flowbite-React , Tailwind CSS , React Quill , React-Redux 
+
+Backend :- Node.js , Express.js , MongoDB  , Mongoose , 
+
+A  Multipage application built to make easy selling and buying of platforms . 
+Seller Flow , A seller gets to upload his property and get the response overview of his property .
+Buyer Flow , A buyer gets to see all the posted property and review them .
+
+
+![alt text](image.png) :- shows the signup page where user has to fill in details like Name , No. , Email , password , Category . 
+For Login/signup - google authentication is integrated .
+
+![alt text](image-1.png) - Home Page where user gets the option to go to dashboard , profile , view all post .
+![alt text](image-2.png) - Profile Page .
+![alt text](image-3.png) - dashboard to get all the stats at a place . 
+
+
+features :-
+Google Authentication , Post Property , Update Property , Delete Property , Delete User , Update User Details , Search and Filter according to criteria , change mode day/night. 
+
+Seller Profile Signin: user1@gmail.com  , password : Anisha@310701 
+
+Buyer Profile Signin : Any profile is initially as buyer . A authentication is required to allow them to be a seller and upload property. 
+
+the website is hosted using Netlify .
