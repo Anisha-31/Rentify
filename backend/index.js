@@ -29,7 +29,7 @@ app.use(cookieParser());
 app.listen(3000, () => {
   console.log('Server is running on port 3000!');
 });
-app.use(express.static(path.join(__dirname, 'public')));
+// app.use(express.static(path.join(__dirname, 'public')));
 app.use('/backend/user', userRoutes);
 app.use('/backend/auth', authRoutes);
 app.use('/backend/post', postRoutes);
