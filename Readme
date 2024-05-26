@@ -26,3 +26,7 @@ Seller Profile Signin: user1@gmail.com  , password : Anisha@310701
 Buyer Profile Signin : Any profile is initially as buyer . A authentication is required to allow them to be a seller and upload property. 
 
 the website is hosted using Netlify .
+https://rentify-4-z0tx.onrender.com
+
+the link may take some time . 
+to run locally script is npm run dev for both frontend and backend .
